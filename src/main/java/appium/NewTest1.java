@@ -22,6 +22,7 @@ public class NewTest1 {
 	UiAutomator2Options cap = new UiAutomator2Options();
 	
 	//code
+	//local
   @Test
   public void f() throws InterruptedException, MalformedURLException {
 	  
