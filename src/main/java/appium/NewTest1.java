@@ -20,6 +20,8 @@ public class NewTest1 {
 	WebDriver driver;
 	//DesiredCapabilities cap = new DesiredCapabilities();
 	UiAutomator2Options cap = new UiAutomator2Options();
+	
+	//code
   @Test
   public void f() throws InterruptedException, MalformedURLException {
 	  
