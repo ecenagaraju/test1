@@ -17,7 +17,8 @@ public class New3 {
      driver.get("http://www.javatpoint.com/");  
        
       //Maximize the browser  
-       driver.manage().window().maximize();  
+       driver.manage().window().maximize(); 
+	  //website
        
   }
 }
